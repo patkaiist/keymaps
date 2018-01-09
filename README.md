@@ -1,2 +1,2 @@
 # keymaps
-keymaps for my Planck and Preonic
+keymaps for my QMK based keyboards
