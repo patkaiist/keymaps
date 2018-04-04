@@ -39,6 +39,6 @@ void matrix_init_user(void) {
 }
 
 void startup_user() {
-	_delay_ms(40); // gets rid of tick
+	_delay_ms(40);
 	PLAY_SONG(tone_startup);
 }
