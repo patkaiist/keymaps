@@ -57,12 +57,12 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_ENT",
-      "KC_LGUI",
+      "KC_LCTL",
       "MO(1)",
       "KC_SPC",
       "KC_SPC",
-      "KC_LALT",
-      "KC_LCTL"
+      "KC_LGUI",
+      "KC_LALT"
     ],
     [
       "KC_F12",
